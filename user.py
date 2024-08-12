@@ -6,6 +6,14 @@ import sqlite3
 # 80 - 90 %
 
 # CLI - command line interface application
+# git config --global user.name "Ramesh Pradhan"
+# git config --global user.email "pyrameshpradhan@gmail.com"
+
+# 1. change the code
+# 2. git add .
+# 3. git commit -m "Your message"
+# 4. git push origin
+
 
 def create_connection():
     try:

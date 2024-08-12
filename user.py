@@ -5,7 +5,7 @@ import sqlite3
 # CRUD - Create, Read, Update, Delete
 # 80 - 90 %
 
-# CLI - command line application
+# CLI - command line interface application
 
 def create_connection():
     try:
